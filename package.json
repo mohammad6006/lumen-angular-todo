@@ -22,7 +22,7 @@
     "url": "https://github.com/DimitriMikadze/lumen-angular-todo.git"
   },
   "author": "Dimitri Mikadze",
-  "license": "Mit",
+  "license": "(MIT OR Apache-2.0)",
   "bugs": {
     "url": "https://github.com/DimitriMikadze/lumen-angular-todo/issues"
   },
